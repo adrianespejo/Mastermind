@@ -1,0 +1,19 @@
+Carpeta docs
+
+Esta carpeta contiene toda la documentacion de nuestro proyecto.
+
+- Diagrama de clases.
+
+- Diagrama de casos de uso.
+
+- Manual de usuario.
+
+- Descripcion de los casos de uso.
+
+- Javadoc de nuestro juego.
+
+- Explicacion funcionalidades extra que hemos añadido al enunciado.
+
+- Descripcion de las clases más importantes, de sus funcionalidades y estructuras de datos.
+
+- Reparto y datos del grupo.
